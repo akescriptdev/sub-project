@@ -1,2 +1,2 @@
 sub project
-add feature
+add feature main
